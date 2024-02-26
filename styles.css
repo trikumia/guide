@@ -1,0 +1,124 @@
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+    color: #9bb899;
+    background-color: #ea4961;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 80px;
+  }
+  h2 {
+    text-align: center;
+    font-family: Georgia;
+    font-weight: lighter;
+    color: #f5827d;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    
+  }
+  h4 {
+    text-align: center;
+    margin: 5px auto;
+  }
+  
+  h6 {
+    text-align: right;
+    font-weight: lighter;
+    margin-right: 50px;
+  }
+  
+  .paragraph {
+    color: #9bb899;
+    text-align: justify;
+    word-spacing: 5px;
+    margin: 0px 50px; 
+  
+  }
+  
+  table {
+    margin: 0px 10px;
+  }
+  
+  td {
+    height:150px;
+    width: 250px;
+  padding:20px;
+  text-align:center;
+  font-weight: bold;
+  font-family: courier;
+  }
+  
+  td p{
+  background-color: white;
+  }
+  
+  ul {
+    margin: 0px auto;
+  }
+  
+  .colors, .fonts, .text {
+    border: 1px solid #ea4961; 
+    margin:50px;
+  }
+  
+  .color1 {
+    background-color:#d3d6db;
+  }
+  .color2 {
+    background-color:#3a4750;
+  }
+  .color3 {
+    background-color:#303841;
+  }
+  .color4 {
+    background-color:#be3144;
+  }
+  .color5 {
+    background-color:#970747;
+  }
+  .color6 {
+    background-color:#fef4e8;
+  }
+  .color7 {
+    background-color:#13445a;
+  }
+  .color8 {
+    background-color:#446878;
+  }
+  .color9 {
+    background-color:#9bb899;
+  }
+  .color10 {
+    background-color:#fcceaa;
+  }
+  .color11 {
+    background-color:#f5827d;
+  }
+  .color12 {
+    background-color:#ea4961;
+  }
+  
+  .font1 {
+    font-family: 'Times New Roman';
+    margin: 0px 10px;
+  }
+  .font2 {
+    font-family: Georgia;
+    margin: 0px 10px;
+  }
+  .font3 {
+    font-family: Garamond;
+    margin: 0px 10px;
+  }
+  .font4 {
+    font-family: 'Courier New';
+    margin: 0px 10px;
+  }
+  .italic {
+    font-style: italic;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  
